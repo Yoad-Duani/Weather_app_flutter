@@ -1,8 +1,7 @@
 # Weather app
 
 A complete weather application.
-
-<img src=https://gifyu.com/image/rCTD" align="left"/>
+![OMD, that smile...](https://media.giphy.com/media/aDFewF551mpb3kx2EM/giphy.gif){loop=""}
 
 ## Getting Started
 #### Get your own API key from:
