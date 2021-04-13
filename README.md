@@ -2,7 +2,7 @@
 
 A complete weather application.
 
-![Alt Text](https://gifyu.com/image/rCTD)
+<img src=https://gifyu.com/image/rCTD" align="left"/>
 
 ## Getting Started
 #### Get your own API key from:
