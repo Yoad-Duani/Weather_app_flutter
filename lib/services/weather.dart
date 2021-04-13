@@ -3,8 +3,8 @@ import 'package:clima2/services/location.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 
-const apiKeyAqicn = '7b926ebfa510b71fc5e0927259116d05a71d2b62'; // api Key from https://aqicn.org
-const apiKeyOpenWeatherMap = '373e1daca8dc0b0173a837bd26101e42'; // api key from https://openweathermap.org/
+const apiKeyAqicn = 'Your_api_key'; // api Key from https://aqicn.org
+const apiKeyOpenWeatherMap = 'Your_api_key'; // api key from https://openweathermap.org/
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather'; //URL for Current weather data
 const openWeatherMapHourlyForecastURL = 'https://api.openweathermap.org/data/2.5/onecall'; //URL for Hourly forecast weather data
 const aqicnAirQualityIndexURL = 'https://api.waqi.info/feed'; //URL for Air quality index
