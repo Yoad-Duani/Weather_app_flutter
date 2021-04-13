@@ -22,7 +22,7 @@
         <br/>
         <br/>
 
-This is my first app , Apparently some things can be done better,
+**This is my first app , Apparently some things can be done better.**
 
       
     
