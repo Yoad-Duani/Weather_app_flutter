@@ -3,7 +3,8 @@
 A complete weather application.
 
 ## Getting Started
-#### Get you API key from:
+#### Get your own API key from:
  * [open weathe map](https://openweathermap.org/api)
  * [aqicn](https://aqicn.org/api/)
+ * [Google Cloud Platform](https://console.cloud.google.com/)
 
