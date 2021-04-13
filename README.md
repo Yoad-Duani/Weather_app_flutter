@@ -15,9 +15,10 @@
   
   in file **services/wather.dart** in the top put the open weathe map key and aqicn.<br/>
   in file **screens/location_screen.dart** put the google api key (search ``` 'Your_api_key' ```).<br/>
+  <br/>
     **You can change the language and places in the search:**<br/>
-      * ```language: "en",```<br/>
-      * ```components: [Component(Component.country, "il")]);```
+      - ```language: "en",```<br/>
+      - ```components: [Component(Component.country, "il")]);```
       
     
   <br/>
