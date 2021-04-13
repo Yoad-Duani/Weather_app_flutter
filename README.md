@@ -11,11 +11,11 @@
  * [Google Cloud Platform](https://console.cloud.google.com/)
 
 ##### Setup for google Cloud API key:
-  *Go to Google Developers Console.<br/>
-  *Create a New Project.<br/>
-  *From Left Menu, go to Credentials section; click on Create Credentials and generate API KEY.<br/>
-  *Copy API KEY of the project.<br/>
-  *Again From Left Menu, go to Library section; search Places API and enable it.<br/>
+  * Go to Google Developers Console.<br/>
+  * Create a New Project.<br/>
+  * From Left Menu, go to Credentials section; click on Create Credentials and generate API KEY.<br/>
+  * Copy API KEY of the project.<br/>
+  * Again From Left Menu, go to Library section; search Places API and enable it.<br/>
 
   Once you have created the keys,
   Put in the right place
