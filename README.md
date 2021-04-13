@@ -15,3 +15,12 @@
   
   in file **services/wather.dart** in the top put the open weathe map key and aqicn.<br/>
   in file **screens/location_screen.dart** put the google api key (search ``` 'Your_api_key' ```).
+    * You can change the language and places in the search
+      ```flutter
+      language: "en",
+      components: [Component(Component.country, "il")]);
+      ```
+    
+  <br/>
+  <br/>
+  #### Get your own API key from:
