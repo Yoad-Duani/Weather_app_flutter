@@ -14,4 +14,4 @@
   Put in the right place
   
   in file **services/wather.dart** in the top put the open weathe map key and aqicn.
-  in file **screens/location_screen.dart** put the google api key (search ``` 'Your_api_key' ```).
+ `<addr>` in file **screens/location_screen.dart** put the google api key (search ``` 'Your_api_key' ```).
