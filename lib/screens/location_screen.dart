@@ -123,7 +123,7 @@ class _LocationScreenState extends State<LocationScreen> {
                           onPressed: () async {
                             Prediction prediction = await PlacesAutocomplete.show(
                                 context: context,
-                                apiKey: 'AIzaSyAULnGJXpQHJAjxbPUlUYw1-S4XPkdpOIs',
+                                apiKey: 'Your_api_key', //api key from google
                                 mode: Mode.fullscreen, // Mode.overlay
                                 language: "en",
                                 components: [Component(Component.country, "il")]);
