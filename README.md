@@ -17,12 +17,10 @@
   in file **screens/location_screen.dart** put the google api key (search ``` 'Your_api_key' ```).<br/>
   <br/>
     **You can change the language and places in the search:**<br/>
-        - ```language: "en",```<br/>
-        - ```components: [Component(Component.country, "il")]);
-         ```
-        
-         <br/>
-        -<br/>
+         &nbsp;```language: "en",```<br/>
+         &nbsp;```components: [Component(Component.country, "il")]); ```
+        <br/>
+        <br/>
 
 This is my first app , Apparently some things can be done better,
 
