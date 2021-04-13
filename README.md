@@ -21,6 +21,4 @@
       - ```components: [Component(Component.country, "il")]);```
       
     
-  <br/>
-  <br/>
-  #### Get your own API key from:
+
