@@ -1,5 +1,7 @@
 # Weather app
 
+ ![GitHub all releases](https://img.shields.io/github/downloads/Yoad-Duani/Weather_app_flutter/total?style=social)&nbsp;&nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/Yoad-Duani/Weather_app_flutter?style=social)
+
 ### A complete simple weather application.
 
 ![OMD, that smile...](https://media.giphy.com/media/aDFewF551mpb3kx2EM/giphy.gif)
